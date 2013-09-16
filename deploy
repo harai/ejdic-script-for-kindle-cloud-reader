@@ -1,0 +1,3 @@
+#!/bin/sh
+
+zip -FSr ejdic-chrome.zip ejdic-kindle.user.js manifest.json icon_128.png
