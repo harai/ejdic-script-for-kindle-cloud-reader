@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           ejdic-script-for-kindle-cloud-reader
+// @name           EJDic Script for Kindle Cloud Reader
 // @version        1.0
 // @namespace      https://github.com/harai/
 // @description    Kindle Cloud Readerで、Dictionary.comの代わりにWeblioのリンクを表示するスクリプト。
